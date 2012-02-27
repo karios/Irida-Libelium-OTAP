@@ -1,0 +1,9 @@
+C:\Users\karios\Dropbox\Development\OTAPControl\LibeliumOTAP\LibeliumOTAP\bin\Debug\LibeliumOTAP.exe
+C:\Users\karios\Dropbox\Development\OTAPControl\LibeliumOTAP\LibeliumOTAP\bin\Debug\LibeliumOTAP.pdb
+C:\Users\karios\Dropbox\Development\OTAPControl\LibeliumOTAP\LibeliumOTAP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\karios\Dropbox\Development\OTAPControl\LibeliumOTAP\LibeliumOTAP\obj\x86\Debug\LibeliumOTAP.Form1.resources
+C:\Users\karios\Dropbox\Development\OTAPControl\LibeliumOTAP\LibeliumOTAP\obj\x86\Debug\LibeliumOTAP.Properties.Resources.resources
+C:\Users\karios\Dropbox\Development\OTAPControl\LibeliumOTAP\LibeliumOTAP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\karios\Dropbox\Development\OTAPControl\LibeliumOTAP\LibeliumOTAP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\karios\Dropbox\Development\OTAPControl\LibeliumOTAP\LibeliumOTAP\obj\x86\Debug\LibeliumOTAP.exe
+C:\Users\karios\Dropbox\Development\OTAPControl\LibeliumOTAP\LibeliumOTAP\obj\x86\Debug\LibeliumOTAP.pdb

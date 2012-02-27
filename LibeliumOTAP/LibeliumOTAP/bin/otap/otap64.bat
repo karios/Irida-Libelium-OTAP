@@ -1,0 +1,1 @@
+java -Djava.library.path=./lib64/ -jar otap.jar %*

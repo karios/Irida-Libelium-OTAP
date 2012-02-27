@@ -1,0 +1,9 @@
+
+C:\Users\karios\Downloads\waspmote\otap_0.1-b70\otap>java -Djava.library.path=./lib64/ -jar otap.jar -start_new_program --mac C:\Users\karios\Downloads\waspmote\otap_0.1-b70\otap -send --deliveries 2 
+usage: otap -start_new_program
+    --mac <000000000000000>                mac address, 16 hex characters
+    --macs_file <list.txt>                 file containing list of macs
+                                           (if MULTICAST enabled)
+    --mode <UNICAST|MULTICAST|BROADCAST>   start mode
+    --pid <program_name>                   the program identifier(7
+                                           characters

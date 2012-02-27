@@ -1,0 +1,26 @@
+2011-10-21 version 0.1-b70
+  - fixed a bug in the encryption of messages.
+
+2011-07-01 version 0.1-b61
+  - fixed a bug in the reception of confirmations after 
+    a new firmware is sent
+  - fixed a bug in the deliveries parameter not being shown
+    in the send command
+
+2011-06-20 version 0.1-b60
+  - fixed a bug with .hex files higheg than 64kb
+
+2011-05-24 version 0.1-b59
+  - improved response time whe scanning nodes
+  - fixed bug when scanning with ZB modules
+  - fixed a bug in the running animation
+
+2011-05-19 version 0.1-b58
+  - fixed timeout errors when receiving waspmotes replies
+  - added functions to detect collisions
+  - added 'discardedDataFile' parameter in xbee.conf file.
+    If present the discarded data is stored in a file in ascii 
+    characters
+
+2011-05-11 version 0.1-b56
+  - first release
